@@ -1,0 +1,42 @@
+body {
+background-color: whitesmoke;
+}
+
+
+font-family: 'Antic Didone', serif;
+}
+
+h1 {
+color:white;
+text-align: center;
+font-family: 'Abril Fatface', cursive;
+  font-size: 70px;
+line-height: 90px;
+  text-transform: uppercase;
+/*   max-width: 940px;
+  margin: 0px 80px;*/
+}
+
+h2 {
+color:black;
+text-align: center;
+font-family: 'Abril Fatface', cursive;
+font-size: 60px;
+line-height: 90px;
+  text-transform: uppercase;
+/*   max-width: 940px;
+  margin: 0px 80px;*/
+}
+
+h4 {
+color:81, 82, 117;
+text-align: center;
+font-family: 'Antic Didone', serif;
+line-height: 90px;
+  text-transform: uppercase;
+/*   max-width: 940px;
+  margin: 0px 80px;*/
+}
+#HomeHeading{
+background-image:url("homepic.jpg");
+}
